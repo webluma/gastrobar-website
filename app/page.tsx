@@ -20,7 +20,7 @@ export default function Home() {
             fill
             priority
             sizes="100vw"
-            className="object-cover object-[28%_center] md:object-center"
+            className="object-cover object-[28%_center] md:object-[center_27%]"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#100805]/10 via-[#100805]/32 to-[#100805]" />
         </div>
