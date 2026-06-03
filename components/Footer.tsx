@@ -13,10 +13,10 @@ export function Footer() {
     <footer className="border-t border-[#D8A24A]/25 bg-[#100805]">
       <div className="mx-auto max-w-[1440px] px-5 py-10 sm:px-6 lg:px-10">
         <div className="flex flex-col gap-8 border-b border-[#D8A24A]/12 pb-8 text-center md:flex-row md:items-center md:justify-between md:text-left">
-          <Link href="/" aria-label="Asia Club Gastrobar - página inicial">
+          <Link href="/" aria-label="Sensai Gastrobar - página inicial">
             <Image
               src={images.logo}
-              alt="Logo Asia Club Gastrobar"
+              alt="Logo Sensai Gastrobar"
               width={1536}
               height={1024}
               className="mx-auto h-24 w-auto object-contain md:mx-0 md:h-28"
@@ -34,7 +34,7 @@ export function Footer() {
 
         <div className="flex flex-col-reverse gap-6 pt-7 text-center text-[10px] uppercase leading-6 tracking-[0.14em] text-[#8D7052] sm:text-[11px] sm:tracking-[0.18em] md:flex-row md:items-center md:justify-between md:text-left">
           <p suppressHydrationWarning>
-            © {currentYear} Asia Club Gastrobar. Todos os direitos
+            © {currentYear} Sensai Gastrobar. Todos os direitos
             reservados. Criado e desenvolvido por{" "}
             <a
               href="https://webluma.tech/"

@@ -23,11 +23,11 @@ const allura = Allura({
 
 export const metadata: Metadata = {
   title: {
-    default: "Asia Club Gastrobar | Assinatura Oriental em Pato Branco",
-    template: "%s | Asia Club Gastrobar",
+    default: "Sensai Gastrobar | Assinatura Oriental em Curitiba",
+    template: "%s | Sensai Gastrobar",
   },
   description:
-    "Alta gastronomia oriental, drinks autorais e noites refinadas no Asia Club Gastrobar, em Pato Branco.",
+    "Alta gastronomia oriental, drinks autorais e noites refinadas no Sensai Gastrobar, em Curitiba.",
 };
 
 export default function RootLayout({

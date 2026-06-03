@@ -9,7 +9,7 @@ import { socialLinks } from "@/data/socialLinks";
 export const metadata: Metadata = {
   title: "Reservas",
   description:
-    "Reserve sua mesa no Asia Club Gastrobar e viva uma experiência sensorial com assinatura oriental em Pato Branco.",
+    "Reserve sua mesa no Sensai Gastrobar e viva uma experiência sensorial com assinatura oriental em Curitiba.",
 };
 
 export default function ReservasPage() {

@@ -5,7 +5,7 @@ export const menuCategories = [
       "Cortes precisos, ingredientes frescos e combinações que elevam o clássico.",
     image: "/images/sushi.png",
     href: "/reservas",
-    alt: "Sushi servido no Asia Club Gastrobar",
+    alt: "Sushi servido no Sensai Gastrobar",
   },
   {
     title: "Pratos Quentes",
@@ -21,13 +21,13 @@ export const menuCategories = [
       "Clássicos repaginados e autorais exclusivos para cada ocasião.",
     image: "/images/drink.png",
     href: "/reservas",
-    alt: "Drink servido no Asia Club Gastrobar",
+    alt: "Drink servido no Sensai Gastrobar",
   },
   {
     title: "Sobremesas",
     description: "O final perfeito para uma experiência inesquecível.",
     image: "/images/dessert.png",
     href: "/reservas",
-    alt: "Sobremesa do Asia Club Gastrobar",
+    alt: "Sobremesa do Sensai Gastrobar",
   },
 ];

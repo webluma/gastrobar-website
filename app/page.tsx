@@ -16,7 +16,7 @@ export default function Home() {
         <div className="relative min-h-[360px] overflow-hidden sm:min-h-[440px] md:min-h-[620px]">
           <Image
             src={images.facade}
-            alt="Fachada do Asia Club Gastrobar à noite"
+            alt="Fachada do Sensai Gastrobar à noite"
             fill
             priority
             sizes="100vw"
@@ -63,7 +63,7 @@ export default function Home() {
       <section className="relative mx-auto min-h-[420px] max-w-[1440px] overflow-hidden border-b border-[#D8A24A]/20 md:min-h-[430px]">
         <Image
           src={images.interior}
-          alt="Ambiente interno do Asia Club Gastrobar"
+          alt="Ambiente do Sensai Gastrobar"
           fill
           sizes="(min-width: 1440px) 1440px, 100vw"
           className="object-cover"
@@ -89,7 +89,7 @@ export default function Home() {
       <section className="mx-auto grid max-w-[1440px] border-b border-[#D8A24A]/20 md:grid-cols-2">
         <HomeFeatureCard
           image={images.drinkHome}
-          alt="Drink autoral do Asia Club Gastrobar"
+          alt="Drink autoral do Sensai Gastrobar"
           title="Drinks autorais"
           text="Criações exclusivas que despertam os sentidos."
           href="/cardapio"
@@ -97,7 +97,7 @@ export default function Home() {
         />
         <HomeFeatureCard
           image={images.menuHome}
-          alt="Prato autoral do Asia Club Gastrobar"
+          alt="Prato autoral do Sensai Gastrobar"
           title="Sabores que marcam"
           text="Ingredientes selecionados e técnica em cada detalhe."
           href="/cardapio"

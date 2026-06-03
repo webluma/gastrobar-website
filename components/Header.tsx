@@ -20,12 +20,12 @@ export function Header() {
         <Link
           href="/"
           className="focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#F49A0A]"
-          aria-label="Asia Club Gastrobar - página inicial"
+          aria-label="Sensai Gastrobar - página inicial"
         >
           <span className="relative block h-10 w-[9.5rem] overflow-hidden sm:h-11 sm:w-[10.5rem]">
             <Image
               src={images.logo}
-              alt="Logo Asia Club Gastrobar"
+              alt="Logo Sensai Gastrobar"
               width={1536}
               height={1024}
               priority

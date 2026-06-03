@@ -1,7 +1,7 @@
 export const images = {
-  logo: "/images/asia-logo.png",
-  facade: "/images/asia-facade.png?v=20260507-160908",
-  interior: "/images/asia-interior.png",
+  logo: "/images/sensai-logo.png",
+  facade: "/images/sensai-facade1.png",
+  interior: "/images/sensai-facade.png",
   drinkHome: "/images/drink-home.png",
   menuHome: "/images/menu-home.png",
   sushi: "/images/sushi.png",

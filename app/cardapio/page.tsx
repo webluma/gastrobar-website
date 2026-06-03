@@ -9,7 +9,7 @@ import { menuCategories } from "@/data/menuCategories";
 export const metadata: Metadata = {
   title: "Cardápio",
   description:
-    "Conheça as categorias do cardápio do Asia Club Gastrobar: sushi, pratos quentes, drinks e sobremesas.",
+    "Conheça as categorias do cardápio do Sensai Gastrobar: sushi, pratos quentes, drinks e sobremesas.",
 };
 
 export default function CardapioPage() {
@@ -38,7 +38,7 @@ export default function CardapioPage() {
       <section className="relative overflow-hidden border-t border-[#D8A24A]/25">
         <Image
           src={images.reservation}
-          alt="Ambiente elegante para reserva no Asia Club Gastrobar"
+          alt="Ambiente elegante para reserva no Sensai Gastrobar"
           fill
           sizes="100vw"
           className="object-cover"

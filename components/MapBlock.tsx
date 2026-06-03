@@ -5,7 +5,7 @@ export function MapBlock() {
     <section className="mx-auto max-w-[1180px] px-5 pb-12 sm:px-6 sm:pb-16 lg:px-10">
       <div className="overflow-hidden border border-[#D8A24A]/30 bg-[#100805]">
         <iframe
-          title="Mapa do Asia Club Gastrobar em Pato Branco, Paraná"
+          title="Mapa localizado em Curitiba, Paraná"
           src={contactInfo.mapsEmbedUrl}
           className="h-[280px] w-full grayscale contrast-125 brightness-75 sm:h-[320px] md:h-[360px]"
           loading="lazy"

@@ -7,10 +7,6 @@ const nextConfig: NextConfig = {
         pathname: "/images/**",
         search: "",
       },
-      {
-        pathname: "/images/asia-facade.png",
-        search: "?v=20260507-160908",
-      },
     ],
   },
 };

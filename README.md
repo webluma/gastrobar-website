@@ -1,12 +1,12 @@
-# Asia Club Gastrobar — Website Concept
+# Sensai Gastrobar — Website Concept
 
-Website conceitual criado para o Asia Club Gastrobar, um gastrobar de assinatura oriental com alta gastronomia asiática, drinks autorais e atmosfera refinada em Pato Branco, Paraná.
+Website conceitual criado para o Sensai Gastrobar, um gastrobar de assinatura oriental com alta gastronomia asiática, drinks autorais e atmosfera refinada em Curitiba, Paraná.
 
 Este projeto foi desenvolvido como uma proposta profissional para uma empresa real e potencial cliente. A ideia é demonstrar como um website próprio pode fortalecer a presença digital da casa, organizar informações importantes e transformar o tráfego vindo de redes sociais e Google Maps em reservas, visitas e contatos pelo WhatsApp.
 
 ## Sobre o Projeto
 
-O Asia Club Gastrobar já possui presença em canais digitais como Instagram, Facebook e Google Maps. Este website foi criado para complementar esses canais com uma experiência mais completa, elegante e direta.
+O Sensai Gastrobar possui uma proposta visual pensada para canais digitais como Instagram, Facebook e Google Maps. Este website foi criado para complementar esses canais com uma experiência mais completa, elegante e direta.
 
 O site apresenta:
 
@@ -23,7 +23,7 @@ O objetivo é que o visitante entenda rapidamente a experiência oferecida e con
 
 ## Objetivo
 
-O objetivo deste projeto é apresentar uma solução realista de website para o Asia Club Gastrobar.
+O objetivo deste projeto é apresentar uma solução realista de website para o Sensai Gastrobar.
 
 A proposta busca resolver problemas comuns de negócios locais que dependem muito de redes sociais, como:
 
@@ -36,7 +36,7 @@ A proposta busca resolver problemas comuns de negócios locais que dependem muit
 
 ## Direção Visual
 
-A interface foi construída com uma estética escura, sofisticada e sensorial, alinhada à proposta do Asia Club Gastrobar.
+A interface foi construída com uma estética escura, sofisticada e sensorial, alinhada à proposta do Sensai Gastrobar.
 
 A direção visual utiliza:
 
@@ -58,7 +58,7 @@ A intenção foi evitar um site genérico de restaurante e criar uma presença d
 
 ### Home
 
-A página inicial apresenta o Asia Club Gastrobar de forma visual, direta e elegante.
+A página inicial apresenta o Sensai Gastrobar de forma visual, direta e elegante.
 
 Ela contém:
 
@@ -118,26 +118,26 @@ Ela contém:
 - mapa incorporado;
 - acesso ao Google Maps.
 
-## Informações Reais Utilizadas
+## Informações Utilizadas
 
 Nome:
-Asia Club Gastrobar
+Sensai Gastrobar
 
 Endereço:
-R. Nereu Ramos, 555 — Bortot, Pato Branco, PR
-85504-012
+Rua do Yakisoba Sorridente, 404 — Bairro Molho Secreto, Curitiba, PR
+80000-404
 
 Instagram:
-https://www.instagram.com/asiaclubgastrobar/
+https://www.instagram.com/
 
 Facebook:
-https://www.facebook.com/asiaclubgastrobar/
+https://www.facebook.com/
 
 Google Maps:
-https://www.google.com/maps/place/Asia+Club+Gastrobar/@-26.2171447,-52.6766439,17z/data=!3m1!4b1!4m6!3m5!1s0x94e553f07fa136a5:0x15a47ea06d85dffd!8m2!3d-26.2171495!4d-52.674069!16s%2Fg%2F11td19ytwn?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D
+https://www.google.com/maps/place/Curitiba,+PR
 
 Observação:
-O número de WhatsApp e os horários de funcionamento ainda estão como informações a confirmar no projeto.
+O endereço, número de WhatsApp e horários de funcionamento ainda estão como informações fictícias ou a confirmar no projeto.
 
 ## Funcionalidades
 
@@ -223,7 +223,7 @@ public/
 
 Este projeto foi criado como uma peça de portfólio e como uma proposta comercial.
 
-A intenção é apresentar ao Asia Club Gastrobar uma possibilidade real de website, mostrando como a empresa poderia ter uma presença digital mais organizada, profissional e própria.
+A intenção é apresentar ao Sensai Gastrobar uma possibilidade real de website, mostrando como a empresa poderia ter uma presença digital mais organizada, profissional e própria.
 
 O site demonstra como eu poderia ajudar o negócio a:
 
@@ -235,7 +235,7 @@ O site demonstra como eu poderia ajudar o negócio a:
 - melhorar a experiência de novos clientes;
 - aproveitar melhor o tráfego vindo do Instagram, Facebook e Google Maps.
 
-## Valor Potencial para o Asia Club Gastrobar
+## Valor Potencial para o Sensai Gastrobar
 
 Um website próprio pode ajudar a casa a:
 
@@ -252,10 +252,10 @@ Um website próprio pode ajudar a casa a:
 
 Este é um projeto conceitual independente, criado para fins de apresentação profissional.
 
-O projeto ainda não é o site oficial do Asia Club Gastrobar.
-As informações utilizadas foram baseadas em dados públicos, referências visuais e conteúdo disponível durante o desenvolvimento do conceito.
+O projeto ainda não é o site oficial do Sensai Gastrobar.
+As informações utilizadas combinam referências visuais, dados fictícios e conteúdo de apresentação do conceito.
 
-Este projeto não é afiliado, aprovado ou oficialmente contratado pelo Asia Club Gastrobar, a menos que uma futura aprovação ou parceria seja estabelecida.
+Este projeto não é afiliado, aprovado ou oficialmente contratado pelo Sensai Gastrobar, a menos que uma futura aprovação ou parceria seja estabelecida.
 
 ## Autoria
 
