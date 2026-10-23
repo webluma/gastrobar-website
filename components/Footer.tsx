@@ -37,7 +37,7 @@ export function Footer() {
             © {currentYear} Sensai Gastrobar. Todos os direitos
             reservados. Criado e desenvolvido por{" "}
             <a
-              href="https://webluma.tech/"
+              href="https://www.webluma.dev/"
               target="_blank"
               rel="noreferrer"
               className="text-[#D8A24A] transition hover:text-[#F49A0A] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#F49A0A]"

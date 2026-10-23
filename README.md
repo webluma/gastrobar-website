@@ -263,4 +263,4 @@ Criado por Gabriella Andrade
 Frontend React Developer
 
 WebLuma:
-https://webluma.tech/
+https://www.webluma.dev/
